@@ -1,1 +1,2 @@
-ascii text is funni
+# ASCII - TEXT TEST
+This just prints "A" to the screen.
